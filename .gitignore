@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/production/classes/
+/Topics/LocalDateTime/Whole hours between two date-time pairs/out/
+/Topics/LocalDateTime/Whole hours between two date-time pairs/out/production/classes/
